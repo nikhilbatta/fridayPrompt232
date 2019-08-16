@@ -3,12 +3,19 @@
 }
 .hide{
   display: none;
+  background-color: red;
 }
 .one{
   background-color: red;
 }
 .right{
   float:right;
+}
+.div{
+  background-color: blue;
+}
+.okokok{
+  background-color: #FFB6C1
 }
 h1 {
   animation-duration: 3s;
