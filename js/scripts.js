@@ -1,7 +1,6 @@
 function refresh(){
   $(".hide").hide();
   $(".field").val(0);
-  $(".field").removeClass("one")
 }
 
 $(document).ready(function(){
