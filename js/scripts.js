@@ -11,5 +11,6 @@ $(document).ready(function(){
     console.log(skill)
     console.log(interest)
     console.log(laptopPreference)
+    var totalScore = trait + whyCode + skill + interest + laptopPreference
   })
 })
