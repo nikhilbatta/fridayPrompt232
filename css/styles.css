@@ -1,9 +1,10 @@
 .okok{
   text-decoration: underline;
+  background-color: purple;
 }
 .hide{
   display: none;
-  text-transform: uppercase; 
+  text-transform: uppercase;
   background-color: red;
 }
 .one{
@@ -11,12 +12,19 @@
 }
 .right{
   float:right;
+  background-color: red;
+}
+.redbutton{
+  background-color: green;
 }
 .div{
   background-color: blue;
 }
 .okokok{
   background-color: #FFB6C1
+}
+button{
+  background-color: red;
 }
 h1,h2 {
   animation-duration: 3s;
