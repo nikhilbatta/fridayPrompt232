@@ -7,6 +7,9 @@
 .one{
   background-color: red;
 }
+.right{
+  float:right;
+}
 h1 {
   animation-duration: 3s;
   animation-name: slidein;

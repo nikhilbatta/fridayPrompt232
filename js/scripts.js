@@ -49,8 +49,8 @@ $(document).ready(function(){
     console.log(laptopPreference)
     var totalScore = trait + whyCode + skill + interest + laptopPreference
     // totalScore = calculateScore();
-    console.log(totalScore);
-    if(totalScore <5){
+    console.log(totalScore<5);
+    if(totalScore <5 && ){
       alert("please enter all fields")
     }
     else if (totalScore >= 5 && totalScore < 9){
